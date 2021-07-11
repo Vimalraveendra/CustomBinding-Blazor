@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BB38EF37-B2FC-47D5-A81F-56481383DAA9}|Default">
+  <MonoDevelop.Ide.ItemProperties.CompoundBind FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CompoundBind/Pages/Parent.razor">
+    <Files>
+      <File FileName="CompoundBind/Pages/Parent.razor" Line="1" Column="10" />
+      <File FileName="CompoundBind/Pages/Child.razor" Line="1" Column="1" />
+      <File FileName="CompoundBind/Pages/Index.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CompoundBind" expanded="True">
+            <Node name="CompoundBind" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Parent.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
