@@ -1,10 +1,16 @@
 ﻿<Properties StartupConfiguration="{BB38EF37-B2FC-47D5-A81F-56481383DAA9}|Default">
-  <MonoDevelop.Ide.ItemProperties.CompoundBind FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CompoundBind/Pages/Parent.razor">
+  <MonoDevelop.Ide.ItemProperties.CompoundBind PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CompoundBind/Pages/One1.razor">
     <Files>
-      <File FileName="CompoundBind/Pages/Parent.razor" Line="1" Column="10" />
-      <File FileName="CompoundBind/Pages/Child.razor" Line="1" Column="1" />
+      <File FileName="CompoundBind/Pages/Parent.razor" Line="1" Column="1" />
+      <File FileName="CompoundBind/Pages/Child.razor" Line="12" Column="24" />
       <File FileName="CompoundBind/Pages/Index.razor" Line="1" Column="1" />
+      <File FileName="CompoundBind/Pages/One.razor" Line="1" Column="1" />
+      <File FileName="CompoundBind/Pages/Two.razor" Line="10" Column="40" />
+      <File FileName="CompoundBind/Pages/Three.razor" Line="9" Column="1" />
+      <File FileName="CompoundBind/Pages/One1.razor" Line="14" Column="1" />
+      <File FileName="CompoundBind/Pages/Two1.razor" Line="1" Column="1" />
+      <File FileName="CompoundBind/Pages/Three1.razor" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +18,7 @@
           <Node name="CompoundBind" expanded="True">
             <Node name="CompoundBind" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Parent.razor" selected="True" />
+                <Node name="One1.razor" selected="True" />
               </Node>
             </Node>
           </Node>
