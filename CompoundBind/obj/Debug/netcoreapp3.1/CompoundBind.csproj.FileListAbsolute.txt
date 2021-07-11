@@ -53,3 +53,15 @@
 /Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/CompoundBind.pdb
 /Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/CompoundBind.genruntimeconfig.cache
 /Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/CompoundBind.csproj.CopyComplete
+/Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/One.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Three.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Two.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/Razor/Pages/One.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/Razor/Pages/Three.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/Razor/Pages/Two.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/One1.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Three1.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Two1.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/Razor/Pages/One1.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/Razor/Pages/Three1.razor.g.cs
+/Users/vimalraveendran/Desktop/blazor/CompoundBind/CompoundBind/obj/Debug/netcoreapp3.1/Razor/Pages/Two1.razor.g.cs
